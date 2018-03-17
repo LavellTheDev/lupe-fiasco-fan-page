@@ -1,0 +1,45 @@
+body{
+  /* background-color: #E7B6CF; */
+  background-image: url("https://1.bp.blogspot.com/_YDMo7jDRJeU/R1PZIN3cznI/AAAAAAAAECo/ItaPuqKOsa0/s1600-R/lupe_coverpasticker.jpg");
+  z-index: -1;
+  color:  white;
+  font-size: 20px;
+}
+ul{
+    width: 35%;
+}
+h1 {
+    margin: auto;
+}
+.support{
+    margin-top: 20px;
+}
+h3{
+  margin-top: 30px;
+}
+h5{
+    margin-top: 65px;
+}
+a{
+    padding-right: 15px;
+    color: #E7B6CF;
+}
+.messages{
+    background-color: rgba(42,14,30,0.3)
+}
+span{
+    padding-right: 10px;
+}
+#container{
+    float: right;
+    margin-right: 10%;
+    margin-top: -5%;
+}
+/* #gifContainer{
+    background-image: url("giphy.gif");
+    background-size: 100px;
+    background-repeat: no-repeat;
+} */
+.formSubmit{
+    margin-top: 45px;
+}
