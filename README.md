@@ -2,7 +2,7 @@
 # Lupe Fiasco Fan Page
 A simple full stack application that allows fans of Lupe Fiasco to show there love.
 
-![alt tag](https://imgur.com/iegUYkD)
+![alt tag](https://i.imgur.com/iegUYkD.png)
 
 
 ## Installation
